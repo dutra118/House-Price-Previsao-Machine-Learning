@@ -3,7 +3,7 @@ Projeto desenvolvido durante o curso de Data Science da IBM, com o objetivo de a
 
 A análise utilizou uma base de dados imobiliários contendo informações como área construída, número de quartos, banheiros, andares e outras características dos imóveis.
 
-## Etapas do projeto
+## Etapas
 
 - **Análise exploratória:** exploração das variáveis e identificação de características relacionadas aos preços dos imóveis.
 - **Preparação dos dados:** seleção e organização das variáveis utilizadas nos modelos.
@@ -32,6 +32,6 @@ Os resultados demonstraram que o modelo apresentou melhor ajuste aos dados de tr
 - Scikit-learn
 - Jupyter Notebook
 
-## Objetivo do aprendizado
+## Objetivo
 
 Aplicar conceitos de análise de dados e Machine Learning na construção e avaliação de modelos preditivos, desenvolvendo conhecimentos em regressão, preparação de dados e avaliação de desempenho.
